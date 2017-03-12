@@ -2,9 +2,10 @@
 @import url("font-awesome.min.css");
 
 /*
-	Escape Velocity by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	❯ Creative direction, site design, and development by:
+	❯ Syd Salmon at Proganica Brand Development
+	❯ proganica.com | @proganica | @SydSalmon
+	❯ This sites features code from Escape Velocity by HTML5 UP html5up.net | @ajlkn under the CCA 3.0 license (html5up.net/license)
 */
 
 /* Reset */
@@ -1395,7 +1396,7 @@
 			input[type="reset"].style1:active,
 			button.style1:active,
 			.button.style1:active {
-				background-color: #d96760;
+				background-color: #86689e;
 			}
 
 		input[type="button"].style2,
